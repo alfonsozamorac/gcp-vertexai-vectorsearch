@@ -1,0 +1,5 @@
+MODEL = "gemini-pro"
+REGION = "europe-west4"
+BUCKET = "vertex-index-confluence"
+GCS_BUCKET_URI = f"gs://{BUCKET}"
+EMBEDDING_MODEL = "textembedding-gecko@003"
